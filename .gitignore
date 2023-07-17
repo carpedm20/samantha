@@ -1,0 +1,75 @@
+*.pth
+*.pt
+*.jpeg*
+*.vrm
+
+*backup*
+*media*
+*tiktok_videos*
+
+.DS_Store
+
+test.vrm
+*.basis
+### Vim ###
+# Swap
+[._]*.s[a-v][a-z]
+!*.svg  # comment out if you don't need vector files
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+
+# Session
+Session.vim
+Sessionx.vim
+
+# Temporary
+.netrwhist
+*~
+# Auto-generated tag files
+tags
+# Persistent undo
+[._]*.un~
+
+assets
+data
+
+*.vcra
+*.json
+*.glb
+*.png
+*.jpg
+
+# gdrive
+credentials.json
+*.dat
+*.rar
+*.tar.gz
+
+*.bin
+*.zip
+.vscode
+*.egg-info
+.pytest_cache
+*.pyc
+
+
+### JupyterNotebooks ###
+# gitignore template for Jupyter Notebooks
+# website: http://jupyter.org/
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Remove previous ipynb_checkpoints
+#   git rm -r .ipynb_checkpoints/
+node_modules/
+test-results/
+playwright-report/
+test-results/
+playwright-report/

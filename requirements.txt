@@ -1,0 +1,14 @@
+ipdb
+fire
+ftfy
+tdqm
+scipy
+blobfile
+dataclasses
+more-itertools
+numpy
+black
+jupyter
+matplotlib
+seaborn
+openai
